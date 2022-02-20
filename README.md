@@ -9,3 +9,7 @@ link del libro... [AQUI](https://duenaslerin.com/tico2/pdfs/python-para-todos.pd
 <img src="https://www.lawebdelprogramador.com/pdf/files/1455755484_python20para20todos.jpg" alt="JuveYell" width="300px">
 </p>
 </div>
+
+# ¿Que es python?
+
+Es un lenguaje interpretado muy difundido 

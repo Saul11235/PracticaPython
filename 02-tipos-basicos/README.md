@@ -1,4 +1,4 @@
-# Tipos basicos de datos
+# 2 - Tipos basicos de datos
 
 en python tendremos las formas basicas de los datos.
 

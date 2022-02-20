@@ -1,4 +1,4 @@
-# 01 - Mi primer programa
+# 1 - Mi primer programa
 
 aprenderemos a hacer en esta sección:
 
